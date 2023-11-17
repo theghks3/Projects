@@ -1,1 +1,1 @@
-First official github!
+Studying & projects
